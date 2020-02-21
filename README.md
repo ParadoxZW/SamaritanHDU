@@ -8,7 +8,7 @@
 	<img src="resource/res.png" width="550">
 </p>
 
-核心开发人员为[@ParadoxSZW](https://github.com/ParadoxZW)和[iris19990802](https://github.com/iris19990802)
+核心开发人员为[@ParadoxSZW](https://github.com/ParadoxZW)和[@iris19990802](https://github.com/iris19990802)
 
 ## Implementation
 
